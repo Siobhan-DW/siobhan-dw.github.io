@@ -1,2 +1,2 @@
-# Formation.github.io
-Development Office Formation Programme
+# Development-Office-Formation
+A wiki for the Development Office
